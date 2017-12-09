@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 09 Dec 2017 12:39:39 GMT
-# entries:        2506
+# last updated:   Sat, 09 Dec 2017 12:41:53 GMT
+# entries:        2508
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -1342,6 +1342,7 @@
 0.0.0.0 dragzebra.com
 0.0.0.0 drumcash.com
 0.0.0.0 dynamic.fmpub.net
+0.0.0.0 dyntrk.com
 0.0.0.0 e-adimages.scrippsnetworks.com
 0.0.0.0 e-bannerx.com
 0.0.0.0 e-debtconsolidation.com
@@ -2405,6 +2406,7 @@
 0.0.0.0 videoegg.com
 0.0.0.0 view4cash.de
 0.0.0.0 viewpoint.com
+0.0.0.0 visiblemeasures.com
 0.0.0.0 visistat.com
 0.0.0.0 visit.webhosting.yahoo.com
 0.0.0.0 visitbox.de
